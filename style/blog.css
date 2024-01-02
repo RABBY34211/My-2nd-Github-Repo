@@ -1,4 +1,10 @@
 div{
-    background-color: red;
+    background-color: black;
+    color: white;
+    border: 20px;
+    border-radius: 5px;
+    border-color: chartreuse;
+
+    
     
 }
